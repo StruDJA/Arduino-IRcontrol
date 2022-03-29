@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the code for the project from [StruMAG's](https://strumag.tn/remote-control-your-appliance-part-1-infra-red) post, Remote Control Your Appliance Part 1 Infra Red, it represents an entry point to start with if you're looking to control or play with [Arduino](https://www.arduino.cc/) via Infra-Red.
+This is the code for the project from [StruMAG's](https://strumag.tn/remote-control-your-appliance-part-1-infra-red?vref=github) post, Remote Control Your Appliance Part 1 Infra Red, it represents an entry point to start with if you're looking to control or play with [Arduino](https://www.arduino.cc/) via Infra-Red.
 
 You'll be adding Infra-Red to turn on/off your room light 💡️
 
