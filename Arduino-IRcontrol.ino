@@ -1,3 +1,21 @@
+/*
+ * @file Arduino-IRcontrol.ino
+ *
+ * @author StruDJA
+ * Contact: strubot@gmail.com
+ * 
+ * For more details visit the blog post (https://strumag.tn/remote-control-your-appliance-part-1-infra-red)
+ * 
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY. See the GNU General Public License for
+ * more details.
+*/
+
 #include <IRremote.h> // Include the IRremote library
 
 const uint32_t BUTTON_POWER = 0xB54A58A7; // IR code sent from the remote, change the value by yours
